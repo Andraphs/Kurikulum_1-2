@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Latian 1</title>
+    
+  </head>
+  <body>
+    <style>
+        .satu {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+        }
+        .dua {
+            display: flex;
+            justify-content: right;
+            align-items: center;
+        }
+        .tiga {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+        }
+        .empat {
+            display: flex;
+            justify-content: right;
+            align-items: center;
+        }
+        .lima {
+            display: flex;
+            justify-content: left;
+            align-items: center;
+        }
+    </style>
+    <h1 align="center">PANCASILA</h1>
+    <div class="pancasila">
+      <div class="satu">
+        <img src="bintang.png" width="120" height="100" />
+        <p>Ketuhanan yang Maha Esa</p>
+      </div>
+
+      <div class="dua">
+          <p>Kemanusiaan yang adil dan beradap</p>
+        <img src="rantai.jpg" width="120" height="100" />
+      </div>
+
+      <div class="tiga">
+        <img src="beringin.png" width="120" height="100" />
+        <p>Persatuan Indonesia</p>
+      </div>
+
+      <div class="empat">
+        <p>Kerakyatan yang di pimpin oleh hikmat kebijaksaan dalam <br>permusyawaratan perwakilan</p>
+        <img src="banteng.png" width="120" height="100" />
+      </div>
+
+      <div class="lima">
+        <img src="padi.png" width="120" height="100" />
+        <p>Keadilan sosial bagi seluruh rakyat Indonesia</p>
+      </div>
+    </div>
+
+  </body>
+</html>
