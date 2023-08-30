@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Latian 2</title>
+  </head>
+  <body>
+    <h1 align="center">Resep Kue Maryam</h1>
+    <style>
+      .all{
+        display: flex;
+        align-items: center;
+      }
+      .maryam {
+        flex: 1;
+      }
+    </style>
+    <div class="all">
+      <div class="maryam">
+        <h4>Bahan Bahan :</h4>
+        <ul>
+          <li>250 gr tepung</li>
+          <li>1 butir telur</li>
+          <li>3 sgm margarin, lelehkan</li>
+          <li>100 ml air hangat</li>
+          <li>2 sdm susu bubuk (optional)</li>
+          <li>1/2 sdt garam</li>
+          <li>margarin lelehkan untuk olesan</li>
+          <li>minyal untuk merendam</li>
+        </ul>
+      </div>
+      <img src="maryam.jpg" alt="Roti Maryam" width="160px" height="160px" />
+    </div>
+
+    <hr>
+
+    <div class="langkah">
+      <h4>Langkah-Langkah</h4>
+      <ol>
+        <li>Campurkan semua bahan roti jadi satu</li>
+        <img src="adonan1.png" alt="campur adonan" width="100px" height="100px">
+        <li>Uleni sampai akhir (aku pakai tangan) jangan takut adonan lengket ya, lumuri tangan sesekali dengan tepung (tapi jangan menambahkan tepung) uleni terus sampai adonan kalis.</li>
+        <img src="adonan2.png" alt="aduk" width="100px" height="100px">
+        <li>kalisnya adonan canai tidak sekalis adonan roti ya, kira kira segini sudah cukup.</li>
+        <img src="adonan3.png" alt="jadi" width="100px" height="100px">
+      </ol>
+    </div>
+  </body>
+</html>
